@@ -33,3 +33,9 @@
     transform: rotate(360deg);
   }
 }
+
+.chatbox {
+  padding: 1rem;
+  border: double #61dafb;
+  border-width: 3px;
+}
