@@ -38,3 +38,9 @@
   position: absolute;
   top: 0;
 }
+
+.chatbox {
+  padding: 1rem;
+  border: double #61dafb;
+  border-width: 3px;
+}
