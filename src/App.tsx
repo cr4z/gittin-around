@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <div className="top">gittin' around</div>
       <Chatbox />
+      <span>That's the chatbox! ^</span>
     </div>
   );
 }
